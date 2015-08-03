@@ -34,7 +34,7 @@ section h2 {
 
 section p {
   margin-bottom: 12px;
-  @include set-font();
+  @include set-font(18px);
 
   @include media-query($on-palm) {
     @include set-font(14px, $base-font-weight, 1.4);
