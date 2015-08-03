@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="1024px" height="315px" viewBox="0 303.5 1024 315" enable-background="new 0 303.5 1024 315" xml:space="preserve">
+<g id="XMLID_24_">
+	<g>
+		<defs>
+			<rect id="SVGID_1_" x="2.7" y="311.9" width="1024" height="299.8"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  overflow="visible"/>
+		</clipPath>
+		<path id="XMLID_26_" clip-path="url(#SVGID_2_)" fill="#EE4338" d="M874.2,611.7c81.8,0,148.1-66.3,148.1-148.1
+			c0-81.8-66.3-148.1-148.1-148.1s-148.1,66.3-148.1,148.1C726.1,545.4,792.4,611.7,874.2,611.7"/>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 758.7041 414.0537)" fill="#FFFFFF" style="font-family:'Lato';font-weight:400;" font-size="26.1384" letter-spacing="-1">Tax Freedom Day®</text>
+<text transform="matrix(1 0 0 1 841.9209 440.1924)" fill="#FFFFFF" style="font-family:'Lato';font-weight:400;" font-size="26.1384">2015</text>
+<g id="XMLID_16_">
+	<g>
+		<defs>
+			<rect id="SVGID_3_" x="2.7" y="311.9" width="1024" height="299.8"/>
+		</defs>
+		<clipPath id="SVGID_4_">
+			<use xlink:href="#SVGID_3_"  overflow="visible"/>
+		</clipPath>
+		<path id="XMLID_19_" clip-path="url(#SVGID_4_)" fill="#00B7D2" d="M153.8,608.1c81.8,0,148.1-66.3,148.1-148.1
+			s-66.3-148.1-148.1-148.1C72,311.9,5.7,378.2,5.7,460C5.7,541.8,72,608.1,153.8,608.1"/>
+	</g>
+	<g>
+		<defs>
+			<rect id="SVGID_5_" x="2.7" y="311.9" width="1024" height="299.8"/>
+		</defs>
+		<clipPath id="SVGID_6_">
+			<use xlink:href="#SVGID_5_"  overflow="visible"/>
+		</clipPath>
+		<path id="XMLID_18_" clip-path="url(#SVGID_6_)" fill="#8251A0" d="M519.3,608.1c81.8,0,148.1-66.3,148.1-148.1
+			s-66.3-148.1-148.1-148.1S371.2,378.2,371.2,460S437.5,608.1,519.3,608.1"/>
+	</g>
+</g>
+<text id="XMLID_15_" transform="matrix(1 0 0 1 82.5039 520.6855)" fill="#FFFFFF" style="font-family:'Lato';font-weight:400;" font-size="89.6174">48</text>
+<text id="XMLID_14_" transform="matrix(1 0 0 1 186.458 490.8418)" fill="#FFFFFF" style="font-family:'Lato';font-weight:400;" font-size="52.247">th</text>
+<text transform="matrix(1 0 0 1 48.8643 412.6025)" fill="#FFFFFF" style="font-family:'Lato';font-weight:400;" font-size="26.1384">State Business Tax</text>
+<text transform="matrix(1 0 0 1 75.2378 438.7402)" fill="#FFFFFF" style="font-family:'Lato';font-weight:400;" font-size="26.1384">Climate Index</text>
+<text id="XMLID_10_" transform="matrix(1 0 0 1 194.1597 522.6445)" fill="#FFFFFF" style="font-family:'Lato';font-weight:700;" font-size="18.6703">best</text>
+<text transform="matrix(1 0 0 1 433.293 412.6025)" fill="#FFFFFF" style="font-family:'Lato';font-weight:400;" font-size="26.1384">State-Local Tax</text>
+<text transform="matrix(1 0 0 1 445.7871 438.7402)" fill="#FFFFFF" style="font-family:'Lato';font-weight:400;" font-size="26.1384">Burden Rank</text>
+<text id="XMLID_6_" transform="matrix(1 0 0 1 471.1289 519.877)" fill="#FFFFFF" style="font-family:'Lato';font-weight:400;" font-size="89.6174">4</text>
+<text id="XMLID_5_" transform="matrix(1 0 0 1 523.1055 490.0342)" fill="#FFFFFF" style="font-family:'Lato';font-weight:400;" font-size="52.247">th</text>
+<text id="XMLID_4_" transform="matrix(1 0 0 1 802.6191 521.2842)" fill="#FFFFFF" style="font-family:'Lato';font-weight:400;" font-size="89.6174">47</text>
+<text id="XMLID_3_" transform="matrix(1 0 0 1 906.5723 491.4434)" fill="#FFFFFF" style="font-family:'Lato';font-weight:400;" font-size="52.247">th</text>
+<text id="XMLID_2_" transform="matrix(1 0 0 1 527.7559 522.6445)" fill="#FFFFFF" style="font-family:'Lato';font-weight:700;" font-size="18.6703">highest</text>
+</svg>
