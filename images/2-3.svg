@@ -1,87 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 561 252" style="enable-background:new 0 0 561 252;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:none;stroke:#D1D3D4;stroke-width:0.5;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#2B66B1;}
-	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#70B2E2;}
-	.st3{fill-rule:evenodd;clip-rule:evenodd;fill:#F06392;}
-	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:#58B78D;}
-	.st5{fill:#414042;stroke:#58595B;stroke-width:0.5;stroke-linejoin:round;stroke-miterlimit:10;}
-	.st6{fill:#414042;}
-	.st7{font-family:'Lato-Regular';}
-	.st8{font-size:10px;}
-	.st9{fill:#FFFFFF;}
-	.st10{font-family:'Lato-Heavy';}
-</style>
-<path class="st0" d="M45.8,199.7h511.1 M45.8,161.1h511.1 M45.8,122.6h511.1 M45.8,84.1h511.1 M45.8,45.6h511.1 M45.8,7h511.1"/>
-<polyline class="st1" points="45.7,208 67,210.8 88.3,205.9 109.6,208.3 130.9,208.7 152.2,206.8 173.5,199.8 194.8,199.6 
-	216.1,200.9 237.4,201 258.7,200.7 280,197.7 301.3,196.7 322.6,197.9 343.9,211.4 365.2,210 386.5,211.7 407.8,210.8 429.1,213.9 
-	450.4,210.1 471.7,208.8 493,213.7 514.3,212 535.6,213.8 556.9,211.6 556.9,238.3 535.6,238.3 514.3,238.3 493,238.3 471.7,238.3 
-	450.4,238.3 429.1,238.3 407.8,238.3 386.5,238.3 365.2,238.3 343.9,238.3 322.6,238.3 301.3,238.3 280,238.3 258.7,238.3 
-	237.4,238.3 216.1,238.3 194.8,238.3 173.5,238.3 152.2,238.3 130.9,238.3 109.6,238.3 88.3,238.3 67,238.3 45.7,238.3 45.7,208 "/>
-<polyline class="st2" points="45.7,208 67,210.8 88.3,205.9 109.6,208.3 130.9,208.7 152.2,206.8 173.5,199.8 194.8,199.6 
-	216.1,200.9 237.4,201 258.7,200.7 280,197.7 301.3,196.7 322.6,197.9 343.9,189.6 365.2,187.5 386.5,187.2 407.8,184.1 
-	429.1,187.5 450.4,187 471.7,188.9 493,192.1 514.3,189.5 535.6,190.4 556.9,187.2 556.9,211.6 535.6,213.8 514.3,212 493,213.7 
-	471.7,208.8 450.4,210.1 429.1,213.9 407.8,210.8 386.5,211.7 365.2,210 343.9,211.4 322.6,197.9 301.3,196.7 280,197.7 
-	258.7,200.7 237.4,201 216.1,200.9 194.8,199.6 173.5,199.8 152.2,206.8 130.9,208.7 109.6,208.3 88.3,205.9 67,210.8 45.7,208 
-	45.7,208 "/>
-<polyline class="st3" points="45.7,171 67,175 88.3,171.7 109.6,173.5 130.9,173.4 152.2,170.1 173.5,170.7 194.8,166.8 
-	216.1,159.1 237.4,159.8 258.7,157.1 280,151.2 301.3,151.3 322.6,153.8 343.9,143.8 365.2,142 386.5,138.3 407.8,138.2 
-	429.1,142.7 450.4,148.7 471.7,158 493,156.1 514.3,149.5 535.6,150.8 556.9,147.4 556.9,187.2 535.6,190.4 514.3,189.5 493,192.1 
-	471.7,188.9 450.4,187 429.1,187.5 407.8,184.1 386.5,187.2 365.2,187.5 343.9,189.6 322.6,197.9 301.3,196.7 280,197.7 
-	258.7,200.7 237.4,201 216.1,200.9 194.8,199.6 173.5,199.8 152.2,206.8 130.9,208.7 109.6,208.3 88.3,205.9 67,210.8 45.7,208 
-	45.7,171 "/>
-<polyline class="st4" points="45.7,129.8 67,130.4 88.3,129 109.6,131.7 130.9,130.8 152.2,128.9 173.5,130.2 194.8,126.6 
-	216.1,118.8 237.4,118.3 258.7,113.7 280,105 301.3,101 322.6,99.5 343.9,85 365.2,76 386.5,49.6 407.8,41.2 429.1,39.4 450.4,39.1 
-	471.7,57 493,61.4 514.3,65 535.6,81.3 556.9,72.8 556.9,147.4 535.6,150.8 514.3,149.5 493,156.1 471.7,158 450.4,148.7 
-	429.1,142.7 407.8,138.2 386.5,138.3 365.2,142 343.9,143.8 322.6,153.8 301.3,151.3 280,151.2 258.7,157.1 237.4,159.8 
-	216.1,159.1 194.8,166.8 173.5,170.7 152.2,170.1 130.9,173.4 109.6,173.5 88.3,171.7 67,175 45.7,171 45.7,129.8 "/>
-<line class="st5" x1="45.8" y1="238.3" x2="556.9" y2="238.3"/>
-<path class="st5" d="M45.8,236.7v3.1 M152.2,236.7v3.1 M258.7,236.7v3.1 M365.2,236.7v3.1 M471.7,236.7v3.1"/>
+	 width="1024px" height="467px" viewBox="0 281.5 1024 467" enable-background="new 0 281.5 1024 467" xml:space="preserve">
+<path fill="none" stroke="#D1D3D4" stroke-width="0.5" stroke-linejoin="round" stroke-miterlimit="10" d="M83.599,646.525h932.917
+	 M83.599,576.068h932.917 M83.599,505.794h932.917 M83.599,435.52h932.917 M83.599,365.245h932.917 M83.599,294.788h932.917"/>
+<polyline fill="#58B78D" points="83.417,518.938 122.296,520.031 161.175,517.476 200.054,522.404 238.933,520.762 277.813,517.293
+	316.691,519.666 355.57,513.095 394.45,498.857 433.329,497.945 472.208,489.549 511.087,473.668 549.967,466.367 588.846,463.629
+	627.725,437.162 666.604,420.734 705.483,372.546 744.362,357.213 783.241,353.928 822.12,353.38 861,386.054 899.879,394.085
+	938.758,400.656 977.637,430.408 1016.518,414.894 1016.518,716.982 83.417,716.982 83.417,518.938 "/>
+<polyline fill="#F06392" points="83.417,594.139 122.296,601.44 161.175,595.417 200.054,598.702 238.933,598.52 277.813,592.496
+	316.691,593.592 355.57,586.473 394.45,572.418 433.329,573.695 472.208,568.768 511.087,557.998 549.967,558.181 588.846,562.744
+	627.725,544.49 666.604,541.205 705.483,534.451 744.362,534.269 783.241,542.482 822.12,553.435 861,570.41 899.879,566.941
+	938.758,554.895 977.637,557.268 1016.518,551.063 1016.518,716.982 83.417,714.063 83.417,594.139 "/>
+<polyline fill="#70B2E2" points="588.846,643.24 627.725,628.09 666.604,624.257 705.483,623.709 744.362,618.051 783.241,624.257
+	822.12,623.344 861,626.813 899.879,632.653 938.758,627.907 977.637,629.55 1016.518,623.709 1016.518,714.063 588.343,714.063
+	588.846,643.24 "/>
+<polyline fill="#2B66B1" points="83.417,661.676 122.296,666.786 161.175,657.843 200.054,662.223 238.933,662.953 277.813,659.485
+	316.691,646.708 355.57,646.343 394.45,648.716 433.329,648.898 472.208,648.351 511.087,642.875 549.967,641.05 588.846,643.24
+	627.725,667.882 666.604,665.326 705.483,668.43 744.362,666.786 783.241,672.445 822.12,665.509 861,663.136 899.879,672.08
+	938.758,668.977 977.637,672.263 1016.518,668.247 1016.518,716.982 977.637,716.982 938.758,716.982 899.879,716.982 861,716.982
+	822.12,716.982 783.241,716.982 744.362,716.982 705.483,716.982 666.604,716.982 627.725,716.982 588.846,716.982 549.967,716.982
+	511.087,716.982 472.208,716.982 433.329,716.982 394.45,716.982 355.57,716.982 316.691,716.982 277.813,716.982 238.933,716.982
+	200.054,716.982 161.175,716.982 122.296,716.982 83.417,716.982 83.417,661.676 "/>
+<line fill="none" stroke="#58595B" stroke-width="0.5" stroke-linejoin="round" stroke-miterlimit="10" x1="83.599" y1="716.982" x2="1016.518" y2="716.982"/>
+<path fill="#414042" stroke="#58595B" stroke-width="0.5" stroke-linejoin="round" stroke-miterlimit="10" d="M83.599,714.063v5.658
+	 M277.813,714.063v5.658 M472.208,714.063v5.658 M666.604,714.063v5.658 M861,714.063v5.658"/>
 <g>
-	<text transform="matrix(1 0 0 1 22.7827 241.8153)" class="st6 st7 st8">$0</text>
+	<text transform="matrix(1 0 0 1 41.5859 723.3994)" fill="#414042" style="font-family:'Lato';font-weight:400;" font-size="18.2531">$0</text>
 </g>
 <g>
-	<text transform="matrix(1 0 0 1 11.1831 203.2704)" class="st6 st7 st8">$200</text>
+	<text transform="matrix(1 0 0 1 20.4131 653.043)" fill="#414042" style="font-family:'Lato';font-weight:400;" font-size="18.2531">$200</text>
 </g>
 <g>
-	<text transform="matrix(1 0 0 1 11.1831 164.7245)" class="st6 st7 st8">$400</text>
+	<text transform="matrix(1 0 0 1 20.4131 582.6836)" fill="#414042" style="font-family:'Lato';font-weight:400;" font-size="18.2531">$400</text>
 </g>
 <g>
-	<text transform="matrix(1 0 0 1 11.1831 126.1795)" class="st6 st7 st8">$600</text>
+	<text transform="matrix(1 0 0 1 20.4131 512.3271)" fill="#414042" style="font-family:'Lato';font-weight:400;" font-size="18.2531">$600</text>
 </g>
 <g>
-	<text transform="matrix(1 0 0 1 11.1831 87.6336)" class="st6 st7 st8">$800</text>
+	<text transform="matrix(1 0 0 1 20.4131 441.9688)" fill="#414042" style="font-family:'Lato';font-weight:400;" font-size="18.2531">$800</text>
 </g>
 <g>
-	<text transform="matrix(1 0 0 1 3.083 49.0887)"><tspan x="0" y="0" class="st6 st7 st8">$1</tspan><tspan x="11.6" y="0" class="st6 st7 st8">,</tspan><tspan x="13.9" y="0" class="st6 st7 st8">000</tspan></text>
+	<text transform="matrix(1 0 0 1 5.6279 371.6123)" fill="#414042" style="font-family:'Lato';font-weight:400;" font-size="18.2531">$1,000</text>
 </g>
 <g>
-	<text transform="matrix(1 0 0 1 3.083 10.5477)"><tspan x="0" y="0" class="st6 st7 st8">$1</tspan><tspan x="11.6" y="0" class="st6 st7 st8">,</tspan><tspan x="13.9" y="0" class="st6 st7 st8">200</tspan></text>
+	<text transform="matrix(1 0 0 1 5.6279 301.2627)" fill="#414042" style="font-family:'Lato';font-weight:400;" font-size="18.2531">$1,200</text>
 </g>
 <g>
-	<text transform="matrix(1 0 0 1 33.2382 250.9998)" class="st6 st7 st8">1990</text>
+	<text transform="matrix(1 0 0 1 60.6699 740.1641)" fill="#414042" style="font-family:'Lato';font-weight:400;" font-size="18.2531">1990</text>
 </g>
 <g>
-	<text transform="matrix(1 0 0 1 139.7348 250.9998)" class="st6 st7 st8">1995</text>
+	<text transform="matrix(1 0 0 1 255.0596 740.1641)" fill="#414042" style="font-family:'Lato';font-weight:400;" font-size="18.2531">1995</text>
 </g>
 <g>
-	<text transform="matrix(1 0 0 1 246.2441 250.9998)" class="st6 st7 st8">2000</text>
+	<text transform="matrix(1 0 0 1 449.4727 740.1641)" fill="#414042" style="font-family:'Lato';font-weight:400;" font-size="18.2531">2000</text>
 </g>
 <g>
-	<text transform="matrix(1 0 0 1 352.7529 250.9998)" class="st6 st7 st8">2005</text>
+	<text transform="matrix(1 0 0 1 643.8838 740.1641)" fill="#414042" style="font-family:'Lato';font-weight:400;" font-size="18.2531">2005</text>
 </g>
 <g>
-	<text transform="matrix(1 0 0 1 459.2558 250.9998)" class="st6 st7 st8">2010</text>
+	<text transform="matrix(1 0 0 1 838.2852 740.1641)" fill="#414042" style="font-family:'Lato';font-weight:400;" font-size="18.2531">2010</text>
 </g>
-<text transform="matrix(1 0 0 1 197.2894 224.5322)"><tspan x="0" y="0" class="st9 st10 st8">Other</tspan><tspan x="26.7" y="0" class="st9 st10 st8"> </tspan><tspan x="28.8" y="0" class="st9 st10 st8">T</tspan><tspan x="33.9" y="0" class="st9 st10 st8">a</tspan><tspan x="39" y="0" class="st9 st10 st8">x</tspan><tspan x="44.3" y="0" class="st9 st10 st8">es </tspan></text>
-<text transform="matrix(1 0 0 1 410.5858 202.8652)"><tspan x="0" y="0" class="st9 st10 st8">Hotel</tspan><tspan x="25.2" y="0" class="st9 st10 st8"> </tspan><tspan x="27.3" y="0" class="st9 st10 st8">T</tspan><tspan x="32.4" y="0" class="st9 st10 st8">a</tspan><tspan x="37.5" y="0" class="st9 st10 st8">x</tspan><tspan x="42.8" y="0" class="st9 st10 st8">es </tspan></text>
-<g>
-	<text transform="matrix(1 0 0 1 101.2142 190.0327)" class="st9 st10 st8">Sales Taxes </text>
-</g>
-<g>
-	<text transform="matrix(1 0 0 1 326.5101 125.4726)" class="st9 st10 st8">Property Taxes </text>
-</g>
+<text transform="matrix(1 0 0 1 360.1138 691.8516)" fill="#FFFFFF" style="font-family:'Lato';font-weight:700;" font-size="18.2531">Other Taxes</text>
+<text transform="matrix(1 0 0 1 749.4473 652.3027)" fill="#FFFFFF" style="font-family:'Lato';font-weight:700;" font-size="18.2531">Hotel Taxes</text>
+<text transform="matrix(1 0 0 1 184.7471 628.8799)" fill="#FFFFFF" style="font-family:'Lato';font-weight:700;" font-size="18.2531">Sales Taxes</text>
+<text transform="matrix(1 0 0 1 595.9824 511.0371)" fill="#FFFFFF" style="font-family:'Lato';font-weight:700;" font-size="18.2531">Property Taxes</text>
 </svg>

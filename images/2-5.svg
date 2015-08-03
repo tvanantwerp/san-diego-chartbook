@@ -6,66 +6,66 @@
 	.st0{fill:none;stroke:#D9D9D8;stroke-width:0.72;stroke-linejoin:round;stroke-miterlimit:10;}
 	.st1{fill:#D9D9D8;stroke:#58595B;stroke-width:0.72;stroke-linejoin:round;stroke-miterlimit:10;}
 	.st2{fill:#5A5A5A;}
-	.st3{font-family:'Lato-Regular';}
+	.st3{font-family:'Lato';font-weight:400;}
 	.st4{font-size:10px;}
 	.st5{fill:#488FCC;}
 	.st6{fill:#F8981D;}
 	.st7{fill:#FFFFFF;}
-	.st8{font-family:'Lato-Heavy';}
+	.st8{font-family:'Lato';font-weight:700;}
 	.st9{font-size:8.6634px;}
-	.st10{font-family:'Lato-Bold';}
+	.st10{font-family:'Lato';font-weight:700;}
 	.st11{font-size:11.5512px;}
 </style>
 <path class="st0" d="M97,30.5v328.3 M126.1,30.5v328.3 M155.2,30.5v328.3 M184.2,30.5v328.3 M213.3,30.5v328.3 M242.3,30.5v328.3
 	 M271.4,30.5v328.3 M300.5,30.5v328.3 M329.5,30.5v328.3 M358.6,30.5v328.3"/>
 <line class="st1" x1="68" y1="30.5" x2="68" y2="358.8"/>
-<text transform="matrix(1 0 0 1 60.812 21.0161)"><tspan x="0" y="0" class="st2 st3 st4">0</tspan><tspan x="5.8" y="0" class="st2 st3 st4">%</tspan></text>
-<text transform="matrix(1 0 0 1 89.851 21.0161)"><tspan x="0" y="0" class="st2 st3 st4">1</tspan><tspan x="5.8" y="0" class="st2 st3 st4">%</tspan></text>
-<text transform="matrix(1 0 0 1 118.8901 21.0161)"><tspan x="0" y="0" class="st2 st3 st4">2</tspan><tspan x="5.8" y="0" class="st2 st3 st4">%</tspan></text>
-<text transform="matrix(1 0 0 1 147.9291 21.0161)"><tspan x="0" y="0" class="st2 st3 st4">3</tspan><tspan x="5.8" y="0" class="st2 st3 st4">%</tspan></text>
-<text transform="matrix(1 0 0 1 176.9679 21.0161)"><tspan x="0" y="0" class="st2 st3 st4">4</tspan><tspan x="5.8" y="0" class="st2 st3 st4">%</tspan></text>
-<text transform="matrix(1 0 0 1 206.007 21.0161)"><tspan x="0" y="0" class="st2 st3 st4">5</tspan><tspan x="5.8" y="0" class="st2 st3 st4">%</tspan></text>
-<text transform="matrix(1 0 0 1 235.046 21.0161)"><tspan x="0" y="0" class="st2 st3 st4">6</tspan><tspan x="5.8" y="0" class="st2 st3 st4">%</tspan></text>
-<text transform="matrix(1 0 0 1 264.085 21.0161)"><tspan x="0" y="0" class="st2 st3 st4">7</tspan><tspan x="5.8" y="0" class="st2 st3 st4">%</tspan></text>
-<text transform="matrix(1 0 0 1 293.1241 21.0161)"><tspan x="0" y="0" class="st2 st3 st4">8</tspan><tspan x="5.8" y="0" class="st2 st3 st4">%</tspan></text>
-<text transform="matrix(1 0 0 1 322.1631 21.0161)"><tspan x="0" y="0" class="st2 st3 st4">9</tspan><tspan x="5.8" y="0" class="st2 st3 st4">%</tspan></text>
-<text transform="matrix(1 0 0 1 348.3174 21.0161)"><tspan x="0" y="0" class="st2 st3 st4">10</tspan><tspan x="11.5" y="0" class="st2 st3 st4">%</tspan></text>
+<text transform="matrix(1 0 0 1 60.812 21.0161)"><tspan x="0" y="0" class="st2 st3 st4">0%</tspan></text>
+<text transform="matrix(1 0 0 1 89.851 21.0161)"><tspan x="0" y="0" class="st2 st3 st4">1%</tspan></text>
+<text transform="matrix(1 0 0 1 118.8901 21.0161)"><tspan x="0" y="0" class="st2 st3 st4">2%</tspan></text>
+<text transform="matrix(1 0 0 1 147.9291 21.0161)"><tspan x="0" y="0" class="st2 st3 st4">3%</tspan></text>
+<text transform="matrix(1 0 0 1 176.9679 21.0161)"><tspan x="0" y="0" class="st2 st3 st4">4%</tspan></text>
+<text transform="matrix(1 0 0 1 206.007 21.0161)"><tspan x="0" y="0" class="st2 st3 st4">5%</tspan></text>
+<text transform="matrix(1 0 0 1 235.046 21.0161)"><tspan x="0" y="0" class="st2 st3 st4">6%</tspan></text>
+<text transform="matrix(1 0 0 1 264.085 21.0161)"><tspan x="0" y="0" class="st2 st3 st4">7%</tspan></text>
+<text transform="matrix(1 0 0 1 293.1241 21.0161)"><tspan x="0" y="0" class="st2 st3 st4">8%</tspan></text>
+<text transform="matrix(1 0 0 1 322.1631 21.0161)"><tspan x="0" y="0" class="st2 st3 st4">9%</tspan></text>
+<text transform="matrix(1 0 0 1 348.3174 21.0161)"><tspan x="0" y="0" class="st2 st3 st4">10%</tspan></text>
 <g>
 	<g>
 		<polygon class="st5" points="68,37.1 256.9,37.1 256.9,73.5 68,73.5 68,37.1 		"/>
 		<polygon class="st6" points="256.9,37.1 300.5,37.1 300.5,73.5 256.9,73.5 256.9,37.1 		"/>
-		<text transform="matrix(1 0 0 1 268.9817 58.6571)"><tspan x="0" y="0" class="st7 st8 st9">1</tspan><tspan x="5.1" y="0" class="st7 st8 st9">.</tspan><tspan x="7.2" y="0" class="st7 st8 st9">5</tspan><tspan x="12.2" y="0" class="st7 st8 st9">%</tspan></text>
+		<text transform="matrix(1 0 0 1 268.9817 58.6571)"><tspan x="0" y="0" class="st7 st8 st9">1.5%</tspan></text>
 	</g>
-	<text transform="matrix(1.0389 0 0 1 16.1543 58.1625)"><tspan x="0" y="0" class="st2 st10 st4">S</tspan><tspan x="5.5" y="0" class="st2 st10 st4">a</tspan><tspan x="10.5" y="0" class="st2 st10 st4">n</tspan><tspan x="16.1" y="0" class="st2 st10 st4"> </tspan><tspan x="18.6" y="0" class="st2 st10 st4">Di</tspan><tspan x="28.7" y="0" class="st2 st10 st4">e</tspan><tspan x="34" y="0" class="st2 st10 st4">g</tspan><tspan x="39.3" y="0" class="st2 st10 st4">o</tspan></text>
+	<text transform="matrix(1.0389 0 0 1 16.1543 58.1625)"><tspan x="0" y="0" class="st2 st10 st4">San Diego</tspan></text>
 </g>
 <g>
 	<g>
 		<polygon class="st5" points="68,106.4 256.9,106.4 256.9,142.9 68,142.9 68,106.4 		"/>
 		<polygon class="st6" points="256.9,106.4 307,106.4 307,142.9 256.9,142.9 256.9,106.4 		"/>
-		<text transform="matrix(1 0 0 1 267.1738 128.0349)"><tspan x="0" y="0" class="st7 st8 st9">1</tspan><tspan x="5.1" y="0" class="st7 st8 st9">.</tspan><tspan x="7.2" y="0" class="st7 st8 st9">725</tspan><tspan x="22.4" y="0" class="st7 st8 st9">%</tspan></text>
+		<text transform="matrix(1 0 0 1 267.1738 128.0349)"><tspan x="0" y="0" class="st7 st8 st9">1.725</tspan><tspan x="22.4" y="0" class="st7 st8 st9">%</tspan></text>
 	</g>
-	<text transform="matrix(1.0389 0 0 1 31.1704 127.639)"><tspan x="0" y="0" class="st2 st3 st4">F</tspan><tspan x="5.7" y="0" class="st2 st3 st4">r</tspan><tspan x="9.2" y="0" class="st2 st3 st4">e</tspan><tspan x="14.6" y="0" class="st2 st3 st4">s</tspan><tspan x="18.8" y="0" class="st2 st3 st4">n</tspan><tspan x="24.5" y="0" class="st2 st3 st4">o</tspan></text>
+	<text transform="matrix(1.0389 0 0 1 31.1704 127.639)"><tspan x="0" y="0" class="st2 st3 st4">Fresno</tspan></text>
 </g>
 <g>
 	<g>
 		<polygon class="st5" points="68,314.7 256.9,314.7 256.9,351.2 68,351.2 68,314.7 		"/>
 		<polygon class="st6" points="256.9,314.7 329.5,314.7 329.5,351.2 256.9,351.2 256.9,314.7 		"/>
-		<text transform="matrix(1 0 0 1 283.5049 336.2833)"><tspan x="0" y="0" class="st7 st8 st9">2</tspan><tspan x="5.1" y="0" class="st7 st8 st9">.</tspan><tspan x="7.2" y="0" class="st7 st8 st9">5</tspan><tspan x="12.2" y="0" class="st7 st8 st9">%</tspan></text>
+		<text transform="matrix(1 0 0 1 283.5049 336.2833)"><tspan x="0" y="0" class="st7 st8 st9">2.5%</tspan></text>
 	</g>
-	<text transform="matrix(1.0389 0 0 1 -1.600000e-04 336.2828)"><tspan x="0" y="0" class="st2 st3 st4">S</tspan><tspan x="5.4" y="0" class="st2 st3 st4">a</tspan><tspan x="10.3" y="0" class="st2 st3 st4">n</tspan><tspan x="15.9" y="0" class="st2 st3 st4"> </tspan><tspan x="18.5" y="0" class="st2 st3 st4">F</tspan><tspan x="24.1" y="0" class="st2 st3 st4">r</tspan><tspan x="27.7" y="0" class="st2 st3 st4">a</tspan><tspan x="32.7" y="0" class="st2 st3 st4">n</tspan><tspan x="38.3" y="0" class="st2 st3 st4">ci</tspan><tspan x="45.4" y="0" class="st2 st3 st4">s</tspan><tspan x="49.7" y="0" class="st2 st3 st4">co</tspan></text>
+	<text transform="matrix(1.0389 0 0 1 -1.600000e-04 336.2828)"><tspan x="0" y="0" class="st2 st3 st4">San Francisco</tspan></text>
 </g>
 <g>
 	<polygon class="st5" points="68,175.9 256.9,175.9 256.9,212.3 68,212.3 68,175.9 	"/>
 	<polygon class="st6" points="256.9,175.9 322.3,175.9 322.3,212.3 256.9,212.3 256.9,175.9 	"/>
-	<text transform="matrix(1 0 0 1 277.3589 196.5753)"><tspan x="0" y="0" class="st7 st8 st9">2</tspan><tspan x="5.1" y="0" class="st7 st8 st9">.</tspan><tspan x="7.2" y="0" class="st7 st8 st9">25</tspan><tspan x="17.3" y="0" class="st7 st8 st9">%</tspan></text>
-	<text transform="matrix(1.0389 0 0 1 23.104 197.0497)"><tspan x="0" y="0" class="st2 st3 st4">S</tspan><tspan x="5.4" y="0" class="st2 st3 st4">a</tspan><tspan x="10.3" y="0" class="st2 st3 st4">n</tspan><tspan x="15.9" y="0" class="st2 st3 st4"> </tspan><tspan x="18.5" y="0" class="st2 st3 st4">J</tspan><tspan x="22.7" y="0" class="st2 st3 st4">o</tspan><tspan x="28.4" y="0" class="st2 st3 st4">s</tspan><tspan x="32.6" y="0" class="st2 st3 st4">e</tspan></text>
+	<text transform="matrix(1 0 0 1 277.3589 196.5753)"><tspan x="0" y="0" class="st7 st8 st9">2.25%</tspan></text>
+	<text transform="matrix(1.0389 0 0 1 23.104 197.0497)"><tspan x="0" y="0" class="st2 st3 st4">San Jose</tspan></text>
 </g>
 <g>
 	<polygon class="st5" points="68,245.3 256.9,245.3 256.9,281.7 68,281.7 68,245.3 	"/>
 	<polygon class="st6" points="256.8,245.3 329.4,245.3 329.4,281.7 256.8,281.7 256.8,245.3 	"/>
-	<text transform="matrix(1 0 0 1 283.4258 265.9854)"><tspan x="0" y="0" class="st7 st8 st9">2</tspan><tspan x="5.1" y="0" class="st7 st8 st9">.</tspan><tspan x="7.2" y="0" class="st7 st8 st9">5</tspan><tspan x="12.2" y="0" class="st7 st8 st9">%</tspan></text>
-	<text transform="matrix(1.0389 0 0 1 8.0459 266.4598)"><tspan x="0" y="0" class="st2 st3 st4">L</tspan><tspan x="5.1" y="0" class="st2 st3 st4">o</tspan><tspan x="10.8" y="0" class="st2 st3 st4">s</tspan><tspan x="15.1" y="0" class="st2 st3 st4"> </tspan><tspan x="17.6" y="0" class="st2 st3 st4">An</tspan><tspan x="29.9" y="0" class="st2 st3 st4">g</tspan><tspan x="35.1" y="0" class="st2 st3 st4">e</tspan><tspan x="40.4" y="0" class="st2 st3 st4">l</tspan><tspan x="42.7" y="0" class="st2 st3 st4">e</tspan><tspan x="48.1" y="0" class="st2 st3 st4">s</tspan></text>
+	<text transform="matrix(1 0 0 1 283.4258 265.9854)"><tspan x="0" y="0" class="st7 st8 st9">2.5%</tspan></text>
+	<text transform="matrix(1.0389 0 0 1 8.0459 266.4598)"><tspan x="0" y="0" class="st2 st3 st4">Los Angeles</tspan></text>
 </g>
-<text transform="matrix(1 0 0 1 313.0866 80.9795)"><tspan x="0" y="0" class="st5 st8 st11">S</tspan><tspan x="6.4" y="0" class="st5 st8 st11">t</tspan><tspan x="10.7" y="0" class="st5 st8 st11">a</tspan><tspan x="16.7" y="0" class="st5 st8 st11">t</tspan><tspan x="21" y="0" class="st5 st8 st11">e</tspan><tspan x="27.3" y="0" class="st5 st8 st11"> </tspan><tspan x="29.9" y="0" class="st5 st8 st11">R</tspan><tspan x="37.4" y="0" class="st5 st8 st11">a</tspan><tspan x="43.3" y="0" class="st5 st8 st11">t</tspan><tspan x="47.7" y="0" class="st5 st8 st11">e</tspan></text>
-<text transform="matrix(1 0 0 1 313.0866 95.3513)"><tspan x="0" y="0" class="st6 st8 st11">L</tspan><tspan x="6" y="0" class="st6 st8 st11">o</tspan><tspan x="12.7" y="0" class="st6 st8 st11">c</tspan><tspan x="18.3" y="0" class="st6 st8 st11">a</tspan><tspan x="24.2" y="0" class="st6 st8 st11">l</tspan><tspan x="27.1" y="0" class="st6 st8 st11"> </tspan><tspan x="30" y="0" class="st6 st8 st11">R</tspan><tspan x="37.5" y="0" class="st6 st8 st11">a</tspan><tspan x="43.4" y="0" class="st6 st8 st11">t</tspan><tspan x="47.7" y="0" class="st6 st8 st11">e</tspan></text>
+<text transform="matrix(1 0 0 1 313.0866 80.9795)"><tspan x="0" y="0" class="st5 st8 st11">State Rate</tspan></text>
+<text transform="matrix(1 0 0 1 313.0866 95.3513)"><tspan x="0" y="0" class="st6 st8 st11">Local Rate</tspan></text>
 </svg>
