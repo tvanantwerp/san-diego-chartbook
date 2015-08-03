@@ -97,7 +97,7 @@ if ($(window).width() <= 800) {
 
   menuSwipe.on('swipeleft', function() {
     toggleNavMenu();
-  })
+  });
 }
 
 $('document').ready(function() {
