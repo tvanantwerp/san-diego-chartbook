@@ -79,6 +79,16 @@ function toggleNavMenu() {
   }
 }
 
+function handleArrowKeys(e) {
+  e = e || window.event;
+
+  if (e.keyCode == '37') {
+    previousSlide();
+  } else if (e.keyCode == '39') {
+    nextSlide();
+  }
+}
+
 // Use Hammer.js for swipe actions; only created if screen size <= 800px
 if ($(window).width() <= 800) {
   var chartbook = document.getElementById('slides');
@@ -102,4 +112,5 @@ if ($(window).width() <= 800) {
 
 $('document').ready(function() {
   setSlide();
+  document.onkeydown = handleArrowKeys;
 });
